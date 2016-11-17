@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[WaterWaveView generatePathByOffsetX:]:WaterWaveView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pathArr.firstObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterWaveView createPath:]:WaterWaveView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.gradientLayer.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WaterWaveView addWaveBreizerPaths]:WaterWaveView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "path5.actualEndPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
